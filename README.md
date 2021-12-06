@@ -1,3 +1,3 @@
 # VQGAN Video Generator
 
-Jupyter notebook, via Google Colab
+Open in Colab to run :)
